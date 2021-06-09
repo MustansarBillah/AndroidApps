@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WuW</string>
+
+    <string name="home">Home</string>
+    <string name="todo">TODO</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="retry">Retry</string>
+    <string name="title_location_permission">This App Needs Your Location Access</string>
+    <string name="text_location_permission">Allow Location Access</string>
+    <string name="ok">Ok</string>
+</resources>

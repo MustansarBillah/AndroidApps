@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136947458050",
+    "firebase_url": "https://webviewapp-37cb9.firebaseio.com",
+    "project_id": "webviewapp-37cb9",
+    "storage_bucket": "webviewapp-37cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136947458050:android:75ee40412714561e82c71b",
+        "android_client_info": {
+          "package_name": "app.mustansar.mtauexclusive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136947458050-asc4beg6sm699grtfv0690a6t3jg1kv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAw6saye3tNpW4MDccQh0tJhbvSZGM-Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136947458050-asc4beg6sm699grtfv0690a6t3jg1kv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
